@@ -1,6 +1,6 @@
 ## Hey, I'm Parvin! 👋
 
-I have received a master's degree in computer engineering, and I am currently a university lecturer (teaching AI, Python, Machine learning, Deep learning, and Computer Architecture). My interest in interdisciplinary fields is manifold. From one aspect as a data-driven and Machine Learning professionally with a passion for ML, deep learning, NLP, Computer Vision, Image Anaysis, optimization programming, design, and development. I have come to understand that the practical aspects of the field are closely knit within the theoretical aspects. As such, I have decided to take my understanding of the field beyond the mid-level offered master's degree. I believe that this is going to boost my understanding to unprecedented heights and enable me to pursue my academic career.
+I have received a master's degree in computer engineering, and I am currently a university lecturer (teaching AI, Python, Machine learning, Deep learning, and Computer Architecture). My interest in interdisciplinary fields is manifold. From one aspect as a data-driven and Machine Learning professionally with a passion for ML, deep learning, NLP, Computer Vision, Image Anaysis, optimization programming, design, and development. I have come to understand that the practical aspects of the field are closely knit within the theoretical aspects.
 
 #### 📫 How to reach me:
 
