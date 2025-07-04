@@ -1,6 +1,6 @@
 ## Hey, I'm Parvin! 👋
 
-I have received a master's degree in computer engineering, and I am currently a university lecturer (teaching AI, Python, Machine learning, Deep learning, and Computer Architecture). My interest in interdisciplinary fields is manifold. From one aspect as a data-driven and Machine Learning professionally with a passion for ML, deep learning, NLP, Computer Vision, Image Anaysis, optimization programming, design, and development. I have come to understand that the practical aspects of the field are closely knit within the theoretical aspects.
+I am a PhD student and Teaching Assistant at the University of Hull, with a background in Computer Engineering and university-level teaching experience in Artificial Intelligence, Python, Machine Learning, Deep Learning, and Computer Architecture. My academic and professional journey reflects a strong interdisciplinary focus, blending technical depth with real-world applications.
 
 #### 📫 How to reach me:
 
