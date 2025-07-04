@@ -1,6 +1,6 @@
 ## Hey, I'm Parvin! 👋
 
-I am a PhD student and Teaching Assistant at the University of Hull, with a background in Computer Engineering and university-level teaching experience in Artificial Intelligence, Python, Machine Learning, Deep Learning, and Computer Architecture. My academic and professional journey reflects a strong interdisciplinary focus, blending technical depth with real-world applications.
+I am a PhD student and Teaching Assistant at the University of Hull, with a background in Computer Engineering. I have experience teaching university-level courses in Artificial Intelligence, Python, Machine Learning, Deep Learning, and Computer Architecture. My academic interests include Digital Health, Biomechanics, Wearable Technology, AI Safety, and Responsible AI. I’m passionate about interdisciplinary research and the practical impact of intelligent systems in real-world contexts.
 
 #### 📫 How to reach me:
 
